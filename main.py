@@ -13,7 +13,7 @@ class Events:
         def Shower():
              return "Принимаю душ"
 
-class Print:
+class Day:
     def Daylist():
         print ("Мой распорядок дня: \n"
         "6:00 - Подъем \n"
@@ -37,4 +37,4 @@ class Print:
         )
 
 
-Print.Daylist()
+Day.Daylist()
